@@ -1,0 +1,434 @@
+
+
+.Home____About__Take_Car__Features____Contact {
+  font-size: 17px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  line-height: 2.118;
+  text-align: center;
+  position: absolute;
+  left: 518.224px;
+  top: 29.497px;
+  z-index: 17;
+}
+
+
+.Sgin_Up {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  line-height: 2.4;
+  background-color: rgb(248, 61, 2);
+  position: absolute;
+  left: 1093px;
+  top: 31px;
+  width: 94px;
+  height: 34px;
+  z-index: 19;
+}
+
+.Sgin_In {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  line-height: 2.4;
+  border-width: 1px;
+  border-color: rgb(248, 61, 2);
+  border-style: solid;
+  position: absolute;
+  left: 1212px;
+  top: 31px;
+  width: 92px;
+  height: 32px;
+  z-index: 23;
+}
+
+.The_fastest_way_to_rent_a_car {
+  font-size: 16.453px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 2.188;
+  -moz-transform: matrix( 3.0389771295122,0,0,3.0389771295122,0,0);
+  -webkit-transform: matrix( 3.0389771295122,0,0,3.0389771295122,0,0);
+  -ms-transform: matrix( 3.0389771295122,0,0,3.0389771295122,0,0);
+  position: absolute;
+  left: 555.248px;
+  top: 207.628px;
+  z-index: 53;
+}
+
+.Saad_rmili_moustach {
+  font-size: 20px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  line-height: 1.8;
+  -moz-transform: matrix( 1.42047145675484,0,0,1.42047145675484,0,0);
+  -webkit-transform: matrix( 1.42047145675484,0,0,1.42047145675484,0,0);
+  -ms-transform: matrix( 1.42047145675484,0,0,1.42047145675484,0,0);
+  position: absolute;
+  left: 579.765px;
+  top: 236.5px;
+  z-index: 54;
+}
+
+
+.Enter_an_address {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(167, 167, 167);
+  line-height: 2.4;
+  background-color: rgb(255, 255, 255);
+  width: 317px;
+  height: 45px;
+  z-index: 30;
+}
+
+.start_Rental_input {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1366px;
+  height: 3584px;
+  z-index: 36;
+}
+
+.Start_of_rental {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(167, 167, 167);
+  line-height: 2.4;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 521px;
+  top: 413px;
+  width: 183px;
+  height: 45px;
+  z-index: 34;
+}
+
+
+.Search {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  line-height: 2.4;
+  background-image: -moz-linear-gradient( -69deg, rgb(249,212,35) 0%, rgb(248,54,0) 100%);
+  background-image: -webkit-linear-gradient( -69deg, rgb(249,212,35) 0%, rgb(248,54,0) 100%);
+  background-image: -ms-linear-gradient( -69deg, rgb(249,212,35) 0%, rgb(248,54,0) 100%);
+  position: absolute;
+  width: 163px;
+  height: 43px;
+  z-index: 48;
+}
+
+.Extra_drivers_and_all__free_amenities {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 284.594px;
+  top: 715.646px;
+  z-index: 66;
+}
+
+.featurs_card_1{
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 3px 18px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 264px;
+  top: 602px;
+  width: 180px;
+  height: 163px;
+  z-index: 63;
+}
+
+.Extra_drivers_and_all__free_amenities {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+
+}
+
+.featurs_card_2 {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 3px 18px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 569px;
+  top: 579px;
+  width: 230px;
+  height: 209px;
+  z-index: 70;
+}
+
+.Top_cars_of_the_month {
+  font-size: 17.788px;
+  font-family: "Open Sans";
+  color: rgb(248, 59, 1);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.024;
+
+}
+
+
+.car_card {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 13px 57px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 150px;
+  top: 1008px;
+  width: 504px;
+  height: 182px;
+  z-index: 86;
+}
+
+.audi_A5 {
+  font-size: 20px;
+  font-family: "Open Sans";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.8;
+  position: absolute;
+  left: 447px;
+  top: 1033px;
+  z-index: 91;
+}
+
+.Zen9t_khrjan_l39l__zen9a_ra9m_1 {
+  font-size: 13px;
+  font-family: "Open Sans";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  position: absolute;
+  left: 446.516px;
+  top: 1069.86px;
+  width: 188px;
+  height: 13px;
+  z-index: 92;
+}
+
+.Puthus {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  position: absolute;
+  left: 496.625px;
+  top: 1132px;
+  z-index: 110;
+}
+
+
+._300DH {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(248, 59, 1);
+  line-height: 1.2;
+  -moz-transform: matrix( 1.35659707994551,0,0,1.35659707994551,0,0);
+  -webkit-transform: matrix( 1.35659707994551,0,0,1.35659707994551,0,0);
+  -ms-transform: matrix( 1.35659707994551,0,0,1.35659707994551,0,0);
+  position: absolute;
+  left: 592.602px;
+  top: 1169px;
+  z-index: 95;
+}
+
+.price_day {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(248, 59, 1);
+  line-height: 1.2;
+  -moz-transform: matrix( 0.98136345567903,0,0,0.98136345567903,0,0);
+  -webkit-transform: matrix( 0.98136345567903,0,0,0.98136345567903,0,0);
+  -ms-transform: matrix( 0.98136345567903,0,0,0.98136345567903,0,0);
+  position: absolute;
+  left: 583.521px;
+  top: 1144.646px;
+  z-index: 96;
+}
+
+.More_than_1000_users_trust_each_other {
+  font-size: 17.788px;
+  font-family: "Open Sans";
+  color: rgb(248, 59, 1);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.024;
+  -moz-transform: matrix( 1.40542169946405,0,0,1.40542169946405,0,0);
+  -webkit-transform: matrix( 1.40542169946405,0,0,1.40542169946405,0,0);
+  -ms-transform: matrix( 1.40542169946405,0,0,1.40542169946405,0,0);
+  position: absolute;
+  left: 502.595px;
+  top: 1572.999px;
+  z-index: 120;
+}
+
+.satisfied_users_card {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 13px 57px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 274px;
+  top: 1671px;
+  width: 819px;
+  height: 226px;
+  z-index: 121;
+}
+
+.Mr_3Robot_rent_a_DAcia {
+  font-size: 17.788px;
+  font-family: "Open Sans";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.024;
+  position: absolute;
+  left: 556.375px;
+  top: 1759.499px;
+  z-index: 129;
+}
+
+.Small_car_that_consumes_little__perfect_for_wee {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(0, 0, 0);
+  line-height: 2.4;
+  text-align: center;
+  position: absolute;
+  left: 305.476px;
+  top: 1880.146px;
+  width: 461px;
+  height: 16px;
+  z-index: 134;
+}
+.Do_not_use_your_car_every_day__Rent_it_on_Pango_ {
+  font-size: 17.788px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.024;
+  text-align: center;
+  -moz-transform: matrix( 1.7359938216216,0,0,1.73599382162161,0,0);
+  -webkit-transform: matrix( 1.7359938216216,0,0,1.73599382162161,0,0);
+  -ms-transform: matrix( 1.7359938216216,0,0,1.73599382162161,0,0);
+  position: absolute;
+  left: 528.097px;
+  top: 2116.15px;
+  z-index: 143;
+}
+
+
+.Register_your_car_for_free__rent_it_whenever_yo {
+  font-size: 17.788px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  line-height: 2.024;
+  text-align: center;
+  position: absolute;
+  left: 444.25px;
+  top: 2250.65px;
+  z-index: 144;
+}
+
+
+.Rent_my_car {
+  font-size: 17.788px;
+  font-family: "Open Sans";
+  color: rgb(240, 113, 29);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.024;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.26);
+  position: absolute;
+  left: 590px;
+  top: 2341px;
+  width: 169px;
+  height: 54px;
+  z-index: 145;
+}
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Swiper demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+  <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="../dist/css/swiper.min.css">
+
+  <!-- Demo styles -->
+  <style>
+    body {
+      background: #fff;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color:#000;
+      margin: 0;
+      padding: 0;
+    }
+    .swiper-container {
+      width: 300px;
+      height: 300px;
+      padding: 50px;
+    }
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+      width: 300px;
+      height: 300px;
+    }
+  </style>
+</head>
+<body>
+  <!-- Swiper -->
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/1)"></div>
+      <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/2)"></div>
+      <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/3)"></div>
+      <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/4)"></div>
+      <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/5)"></div>
+      <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/6)"></div>
+    </div>
+
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+
+    <!-- Add Arrows -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <!-- Swiper JS -->
+  <script src="../dist/js/swiper.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper('.swiper-container', {
+      effect: 'flip',
+      grabCursor: true,
+      pagination: {
+        el: '.swiper-pagination',
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+  </script>
+</body>
+</html>
